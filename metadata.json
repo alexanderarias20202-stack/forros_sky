@@ -1,0 +1,8 @@
+{
+  "name": "Forros Sky | Tapicería Automotriz & Protección",
+  "description": "Sitio web y cotizador oficial de Forros Sky. Tapicería automotriz a la medida, polarizados, porcelanización y protección en Barranquilla. Tu vehículo, a otro nivel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
